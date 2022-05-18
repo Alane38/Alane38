@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python, html, css**
 
-- 📫 How to reach me : **_Alane_#6939**
+- 📫 How to reach me : **\_Alane\_#6939**
 
 <p align="left">
 </p>
