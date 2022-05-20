@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at this github and a futur website
 
-- 💬 Ask me about **python, html, css**
+- 💬 Ask me about **Python, HTML, CSS**
 
-- 📫 How to reach me : **\_Alane\_#6939**
+- 📫 You can reach me on Discord : **\_Alane\_#6939**
 
 <p align="left">
 </p>
@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://java.com/fr/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
