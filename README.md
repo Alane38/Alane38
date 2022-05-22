@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alane38, Its time to code !</h1>
 <h3 align="center">A french student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> </p>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> </p>
+<p align="center"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
 - 🔭 I’m currently working on how to dev a mobile application
@@ -13,9 +15,6 @@
 - 💬 Ask me about **python, html, css**
 
 - 📫 How to reach me : **\_Alane\_#6939**
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
