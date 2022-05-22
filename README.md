@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alane38, Its time to code !</h1>
 <h3 align="center">A french student</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> </p>
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<br/>
 
 - 🔭 I’m currently working on how to dev a mobile application
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at this github and a futur website
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **python, html, css**
 
-- 📫 You can reach me on Discord : **\_Alane\_#6939**
+- 📫 How to reach me : **\_Alane\_#6939**
 
 <p align="left">
 </p>
@@ -34,7 +34,6 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://java.com/fr/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
@@ -42,5 +41,8 @@
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
-<img height="175px" width="50%" alt="Impre-visibme GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alane38&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /><img height="175px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alane38&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-<img height="175px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alane38&" alt="alane38" />
+<p>
+ <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=Alane38&show_icons=true&locale=en" alt="Alane38" />
+ <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alane38&layout=compact&langs_count=10" alt="Alane38" >
+ <img align="right" width="32%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alane38&" alt="Alane38" />
+</p>
