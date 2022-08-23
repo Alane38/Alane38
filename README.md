@@ -16,30 +16,18 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"How to dev a mobile application"**
+- 🚀 I’m currently working on : **"How to dev a dynamic website"**
    - [x] Know what languages I need
-   - [x] Make my first mobile application :tada:
-   - [ ] Use all differents guides
-
-<h3 align="left">Create new app:</h3>
-
-```diff
-choco install -y nodejs-lts openjdk11
-- Node js is already installed
-npx react-native init App
-+ App created
-npx react-native start
-+ Metro started
-npx react-native run-android
-+ Sucessfully Android connect 
-```
-
+   - [x] Front-end of the website :tada:
+   - [ ] Back-end of the website 🚧
+   
+<h3 align="left">Stats:</h3>
                                
-- 🚄 I’m currently learning **JavaScript**
+- 🚄 I’m currently learning **PHP and JavaScript**
 
-- 💻 All of my projects are available at this github and a futur website
+- 💻 All of my projects are available at this github and my futur website
 
-- 💬 Ask me about **python, html, css**
+- 💬 Ask me about **python, html, css, php, javascript (little)**
 
 - 📞 How to reach me : **\_Alane\_#6939**
 
