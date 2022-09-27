@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alane38, Its time to code !</h1>
-<h3 align="center">A french student in IT services to organizations</h3>
+<h3 align="center">A french student in ITC services to organizations</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> 
 <img src="https://badgen.net/badge/icon/windows?icon=windows&label"/>
@@ -16,10 +16,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"How to dev a dynamic website"**
-   - [x] Know what languages I need
-   - [x] Front-end of the website :tada:
-   - [ ] Back-end of the website 🚧
+- 🚀 I’m currently working on : **"How to dev algorithmes with python"**
    
 <h3 align="left">Stats:</h3>
                                
