@@ -16,15 +16,15 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"How to dev algorithmes with python"**
+- 🚀 I’m currently working on : **"How to make an application with Java"**
    
 <h3 align="left">Stats:</h3>
                                
-- 🚄 I’m currently learning **PHP and JavaScript**
+- 🚄 I’m currently learning **PHP && JavaScript && Java**
 
 - 💻 All of my projects are available at this github and my futur website
 
-- 💬 Ask me about **python, html, css, php, javascript (little)**
+- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java**
 
 - 📞 How to reach me : **\_Alane\_#6939**
 
