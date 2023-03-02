@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alane38, Its time to code !</h1>
+<h1 align="center">Hi 👋, I'm Alane, Its time to code !</h1>
 <h3 align="center">A french student in ITC services to organizations</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> 
@@ -16,7 +16,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"How to make an application with Java"**
+- 🚀 I’m currently working on : **"Make my own website with my own style"**
    
 <h3 align="left">Stats:</h3>
                                
@@ -24,7 +24,7 @@
 
 - 💻 All of my projects are available at this github and my futur website
 
-- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java**
+- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java, SQL**
 
 - 📞 How to reach me : **\_Alane\_#6939**
 
