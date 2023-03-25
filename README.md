@@ -16,7 +16,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"Make my own website with my own style"**
+- 🚀 I’m currently working on : **"Make my reactjs website"**
    
 <h3 align="left">Stats:</h3>
                                
