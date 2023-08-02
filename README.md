@@ -3,7 +3,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> 
 <img src="https://badgen.net/badge/icon/windows?icon=windows&label"/>
-<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"/>
+<img src="https://uptime.betterstack.com/status-badges/v1/monitor/n4qe.svg"/>
 <img src="https://badgen.net/badge/icon/chrome?icon=chrome&label"/>
 <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label"/>
 <img src="https://badgen.net/badge/icon/discord?icon=discord&label"/>
