@@ -16,49 +16,63 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"Make my reactjs website"**
-   
-<h3 align="left">Stats:</h3>
+- 🚀 I’m currently working on : **"Make mobile app with react-native"**
+
+<h3 align="left">Statistics:</h3>
                                
-- 🚄 I’m currently learning **PHP && JavaScript && Java**
+- 🚄 I’m currently learning : **Symfony && Typescript && Java**
 
-- 💻 All of my projects are available at this github and my futur website
+- 💻 All of my projects are available at this github and my website (https://newalfox.fr)
 
-- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java, SQL**
+- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java, SQL, Symfony, Luau**
 
-- 📞 How to reach me : **\_Alane\_#6939**
+- 📞 Reach me on Discord : **newalfox**
 
 <h3 align="left">Languages and Tools:</h3>
 
-```diff
+<!-- ```diff
 - under construction 🚧
-```
+``` -->
 
-<p align="center"> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://java.com/fr/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> </a>
+
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a>
+
+  <a href="https://java.com/fr/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a> 
+  
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/> </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>
+
+  <a href="https://luau-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="luau" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Github statistics:</h3>
 <p>
  <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=Alane38&show_icons=true&locale=en" alt="Alane38" />
  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alane38&layout=compact&langs_count=10" alt="Alane38" >
