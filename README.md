@@ -76,6 +76,9 @@
 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/> </a> 
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="react-native" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Github statistics:</h3>
