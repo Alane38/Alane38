@@ -24,7 +24,7 @@
 
 - 💻 All of my projects are available at this github and my website (https://newalfox.fr)
 
-- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, Java, SQL, Symfony, Luau**
+- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, TypeScript, React, Nextjs, TailwindCSS, Java, SQL, Symfony, Luau**
 
 - 📞 Reach me on Discord : **newalfox**
 
