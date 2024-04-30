@@ -16,15 +16,15 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"Make mobile app with react-native"**
+- 🚀 I’m currently working on : **"Make the V2 of newalfox.fr"**
 
 <h3 align="left">Statistics:</h3>
                                
-- 🚄 I’m currently learning : **Symfony && Typescript && Java**
+- 🚄 I’m currently learning : **NextJS && Typescript && Java (android)**
 
 - 💻 All of my projects are available at this github and my website (https://newalfox.fr)
 
-- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, TypeScript, React, Nextjs, TailwindCSS, Java, SQL, Symfony, Luau**
+- 💬 Ask me about **Python, HTML, CSS, PHP, JavaScript, TypeScript, React, Nextjs, TailwindCSS, Java, SQL, Symfony, Luau, Postgres, SQL, MariaDB, ...**
 
 - 📞 Reach me on Discord : **newalfox**
 
