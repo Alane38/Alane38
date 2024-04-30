@@ -82,6 +82,9 @@
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next-js" width="40" height="40"/> </a> 
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Github statistics:</h3>
