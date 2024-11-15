@@ -8,10 +8,8 @@
 <img src="https://badgen.net/badge/icon/firefox?icon=firefox&label"/>
 <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label"/>
 <img src="https://badgen.net/badge/icon/discord?icon=discord&label"/>
-<img src="https://badgen.net/badge/icon/github?icon=github&label"/>
 <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label"/>
 <img src="https://badgen.net/badge/icon/vercel?icon=vercel&label"/>
-<img src="https://badgen.net/badge/icon/git?icon=git&label"/>
 </p>
 <p align="center"> 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
