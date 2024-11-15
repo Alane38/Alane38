@@ -2,14 +2,15 @@
 <h3 align="center">A Fullstack Web Developer</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> 
-<img src="https://badgen.net/badge/icon/windows?icon=windows&label"/>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24663%26project%3D%26in=0">
+<img src="https://badgen.net/badge/icon/apple?icon=apple&label"/>
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/n4qe.svg"/>
-<img src="https://badgen.net/badge/icon/chrome?icon=chrome&label"/>
+<img src="https://badgen.net/badge/icon/firefox?icon=firefox&label"/>
 <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label"/>
 <img src="https://badgen.net/badge/icon/discord?icon=discord&label"/>
 <img src="https://badgen.net/badge/icon/github?icon=github&label"/>
-<img src="https://badgen.net/badge/icon/php?icon=php&label"/>
-<img src="https://badgen.net/badge/icon/firefox?icon=firefox&label"/>
+<img src="https://badgen.net/badge/icon/typescript?icon=typescript&label"/>
+<img src="https://badgen.net/badge/icon/vercel?icon=vercel&label"/>
 <img src="https://badgen.net/badge/icon/git?icon=git&label"/>
 </p>
 <p align="center"> 
