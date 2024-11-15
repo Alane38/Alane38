@@ -19,7 +19,7 @@
 
 <h3 align="left">Statistics:</h3>
                                
-- 🚄 I’m currently learning : **NextJS && Typescript && Java (android)**
+- 🚄 I’m currently learning : **NextJS (Prisma, NextAuth, ReactQuery...) && Typescript**
 
 - 💻 All of my projects are available at this github and my website (https://newalfox.fr)
 
