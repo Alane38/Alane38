@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"Make the V2 of newalfox.fr"**
+- 🚀 I’m currently working on : **"Learn news about NextJS 15!"**
 
 <h3 align="left">Statistics:</h3>
                                
