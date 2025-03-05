@@ -15,11 +15,11 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
 <br/>
 
-- 🚀 I’m currently working on : **"Learn news about NextJS 15!"**
+- 🚀 I’m currently working on : **"Learn news about NextJS 15 and web 3D!"**
 
 <h3 align="left">Statistics:</h3>
                                
-- 🚄 I’m currently learning : **NextJS (Prisma, NextAuth, ReactQuery...) && Typescript**
+- 🚄 I’m currently learning : **NextJS (Prisma, NextAuth, ReactQuery...) && Three.js / Rapier / R3F**
 
 - 💻 All of my projects are available at this github and my website (https://newalfox.fr)
 
