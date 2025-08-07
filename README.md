@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Web Developer</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Alane38&label=Profile%20views&color=0e75b6&style=flat" alt="Alane38" /> 
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24663%26project%3D%26in=0">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24663">
 <img src="https://badgen.net/badge/icon/apple?icon=apple&label"/>
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/n4qe.svg"/>
 <img src="https://badgen.net/badge/icon/firefox?icon=firefox&label"/>
