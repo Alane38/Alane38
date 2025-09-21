@@ -63,8 +63,9 @@
       <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/></a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
       <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
+      <a href="https://developer.mozilla.org/docs/Web/SVG" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svg" width="40" height="40"/></a>
     </td>
-    <!-- Backend / Databases -->
+    <!-- Backend / DB -->
     <td valign="top">
       <b>🖥️ Backend / DB</b></br></br>
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
@@ -77,6 +78,7 @@
       <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a>
       <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40"/></a>
       <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40"/></a>
+      <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40"/></a>
     </td>
   </tr>
 
@@ -88,12 +90,17 @@
       <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" width="40" height="40"/></a>
       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40"/></a>
       <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40"/></a>
+      <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=yarn" width="40" height="40"/></a>
+      <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" width="40" height="40"/></a>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
       <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=phpstorm" width="40" height="40"/></a>
       <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=apple" width="40" height="40"/></a>
       <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/></a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
       <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40"/></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+      <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
     </td>
     <!-- Design / 3D / Mobile -->
     <td valign="top">
@@ -102,17 +109,20 @@
       <a href="https://codepen.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=codepen" width="40" height="40"/></a>
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" width="40" height="40"/></a>
       <a href="https://www.roblox.com/create" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=robloxstudio" width="40" height="40"/></a>
-      <a href="https://www.android.com/studio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/></a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/></a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/></a>
       <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40" height="40"/></a>
+      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40"/></a>
     </td>
   </tr>
 
   <tr>
     <!-- AI / Misc -->
     <td valign="top" colspan="2">
-      <b>🤖 AI / Misc</b></br></br>
-      <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40"/></a>
+      <b>🤖 AI</b></br></br>
+      <i>(Under construction...)</i>
+      <br/><br/>
+      <b>📦 Misc</b></br></br>
       <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/></a>
       <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" height="40"/></a>
       <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=md" width="40" height="40"/></a>
@@ -120,10 +130,11 @@
       <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="40" height="40"/></a>
       <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/></a>
       <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=obsidian" width="40" height="40"/></a>
-      <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" width="40" height="40"/></a>
+      <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ableton" width="40" height="40"/></a>
     </td>
   </tr>
 </table>
+
 
 
 ---
