@@ -10,6 +10,8 @@
   <a href="https://codetime.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24663&query=$.message&label=CodeTime&style=for-the-badge&logo=clockify&logoColor=white&color=222222" alt="CodeTime Badge" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.apple.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />
   </a>
