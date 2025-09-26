@@ -57,14 +57,14 @@
     <!-- Web / Frontend -->
     <td valign="top">
       <b>🌐 Web / Frontend</b></br></br>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40"/></a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
       <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
       <a href="https://developer.mozilla.org/docs/Web/SVG" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svg" width="40" height="40"/></a>
     </td>
