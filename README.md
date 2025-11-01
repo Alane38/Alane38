@@ -38,7 +38,7 @@
 ---
 
 ## 🚀 Currently Working On
-- Exploring **Next.js [15.X](https://nextjs.org/blog)** features (Prisma, NextAuth, React Query...) & AI Tools
+- Exploring **Next.js [16.X](https://nextjs.org/blog)** features (Prisma, NextAuth, React Query...) & AI Tools
 - Making my own professionnal **portfolio minimalist** - Lee Rob
 - Building **Web 3D apps** with Three.js, Rapier & React Three Fiber (R3F)
 
