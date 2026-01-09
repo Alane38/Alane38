@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Alane — It's time to code!</h1>
+<h1 align="center">Hi 👋, I'm Alane — time to improve productivity!</h1>
 <h3 align="center">Fullstack Web Developer with DevOps skills</h3>
 
 <!-- BADGES -->
@@ -38,9 +38,10 @@
 ---
 
 ## 🚀 Currently Working On
+- Learning **Rust** sometimes
 - Exploring **Next.js [16.X](https://nextjs.org/blog)** features (Prisma, NextAuth, React Query...) & AI Tools
 - Making my own professionnal **portfolio minimalist** - Lee Rob
-- Building **Web 3D apps** with Three.js, Rapier & React Three Fiber (R3F)
+- Building **Web 3D apps** with Three.js, Rapier & React Three Fiber (R3F) and more...
 
 ## 📚 Learning & Skills
 💬 Ask me about: **AI, TypeScript, React, Next.js, TailwindCSS, Symfony, SQL, Java, PHP, Luau, Postgres, MariaDB...**
